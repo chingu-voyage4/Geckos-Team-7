@@ -459,6 +459,66 @@ button:hover {
     text-decoration: none;
 }
 .copy p a:hover {	color:#33e8ff;}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 90%;
+  background-color: #3d315b;
+}
+
+.main-menu {
+  width: 100vw;
+  height: 10vh;
+  background-color: #f8f991;
+}
+
+.note-create-panel {
+  margin: 1em auto 0 auto;
+  height: 50px;
+  width: 90vw;
+  background-color: #ffffff;
+}
+
+.fixed {
+}
+
+.section-others {
+  padding: 1em;
+}
+
+.section-others h4 {
+  color: #ffffff;
+  margin: 0 0 1em 0;
+}
+
+.note {
+  margin: 0em auto 1em auto;
+  height: 200px;
+  width: 90vw;
+  background-color: #FFFFFF;
+}
+
+.xanadu {
+  background-color: #708b75;
+}
+
+.independence {
+  background-color: #444b6e;
+}
+
+.deep-koamaru {
+  background-color: #3d315b;
+}
+
+.olivine {
+  background-color: #9ab87a;
+}
+
+.pastel-yellow {
+  background-color: #f8f991;
+}
 /*--responsive--*/
 @media(max-width:1920px){
 h1.header-w3ls {
