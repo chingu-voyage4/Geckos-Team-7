@@ -5,7 +5,7 @@ const input = document.querySelector('#noteCreate');
 const titleInput = document.querySelector('#titleNote');
 
 loadEventListeners();
-populateNtoes();
+// populateNtoes();
 
 function loadEventListeners(){
   //Add new note event 
